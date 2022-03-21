@@ -1,0 +1,12 @@
+Source: pdfjam-extras
+Section: utils
+Priority: optional
+Maintainer: David Villa Alises <David.Villa@gmail.com>
+Build-Depends: debhelper (>= 7.0.50~), debhelper-compat (= 12), quilt
+Standards-Version: 4.5.0
+
+Package: pdfjam-extras
+Architecture: all
+Depends: ${misc:Depends}
+Description: FIXME: Short description of the pdfjam-extras package
+ FIXME: long description about the basic features of the pdfjam-extras package
